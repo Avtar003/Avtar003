@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avtar003&label=Profile%20views&color=0e75b6&style=flat" alt="avtar003" /> </p>
 
-- 🔭 I’m currently working on **Backend**
 
 - 🌱 I’m currently learning **Machine Learning**
 
